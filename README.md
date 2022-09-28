@@ -16,5 +16,3 @@ HarryFitness website Make yourself stronger than your excuses
 * Unique and Dynamic Design.
 
 💙 Join the channel to see more videos like this. [CodeWithHarry](https://www.youtube.com/c/codewithharry)
-
-![preview img](/gym.png)
