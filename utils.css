@@ -55,14 +55,19 @@
 }
 
 .btn{
-    padding:7px 12px;
-    border: 2px solid white;
-    border-radius: 6px;
+    padding:5px 12px;
+    border: 2px solid rgb(227 74 56);
+    border-radius: 4px;
     cursor: pointer;
     color: white;
-    background-color: rgb(227 74 56);;
+    background-color: rgb(227 74 56);
+    font-size: .9rem;
+    font-weight: 500;
 }
-
+.btn:hover{
+    background-color: white;
+    color: rgb(227 74 56);
+}
 .overflow-x-hidden{
     overflow-x: hidden;
 }
